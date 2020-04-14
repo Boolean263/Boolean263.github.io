@@ -2,9 +2,9 @@
 layout: post
 title:  "Package Manager Cheat Sheet"
 date:   2020-04-14 12:47:07 -0400
-categories: package management, yum, apt, linux
+categories: package_management yum apt dpkg linux
 ---
-Preamble goes here.
+If you've ever had to move from a RPM-based system to a deb-based one or vice versa, you know the feeling of typing the wrong command, and then trying to remember what the proper command is. I got tired of that feeling, so I created the following cheat sheet.
 
 | Task                              | yum/rpm               | apt/dpkg                  |
 | ---                               | ---                   | ---                       |
